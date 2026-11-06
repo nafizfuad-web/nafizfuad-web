@@ -75,6 +75,13 @@ A workout-focused application for discovering workouts and organizing workout pl
 
 [Live Demo](https://assignment-6-eight-henna.vercel.app/) · [Source Code](https://github.com/nafizfuad-web/assignment-6)
 
+
+## Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nafizfuad-web/nafizfuad-web/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+</p>
+
 ---
 
 ## GitHub Statistics
