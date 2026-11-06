@@ -84,12 +84,14 @@ A workout-focused application for discovering workouts and organizing workout pl
 
 ---
 
+<!--
 ## GitHub Statistics
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=nafizfuad-web&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C2F800&icon_color=C2F800&text_color=FFFFFF" alt="GitHub Stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafizfuad-web&layout=compact&hide_border=true&bg_color=0D1117&title_color=C2F800&text_color=FFFFFF" alt="Top Languages" />
 </p>
+-->
 
 ---
 
