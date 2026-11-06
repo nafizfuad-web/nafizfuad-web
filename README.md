@@ -73,7 +73,7 @@ A workout-focused application for discovering workouts and organizing workout pl
 
 **Technologies:** Next.js, React, TypeScript, Tailwind CSS
 
-[View Project](https://github.com/nafizfuad-web/assignment-6)
+[Live Demo](https://assignment-6-eight-henna.vercel.app/) · [Source Code](https://github.com/nafizfuad-web/assignment-6)
 
 ---
 
