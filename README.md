@@ -61,7 +61,7 @@ A Bengali-language web application for exploring daily market prices of common p
 
 **Technologies:** Next.js, React, TypeScript, MongoDB, Better Auth
 
-[View Project](https://github.com/nafizfuad-web/Assignment--7)
+[Live Demo](https://assignment-7-liard-nu.vercel.app/) · [Source Code](https://github.com/nafizfuad-web/Assignment--7)
 
 ### FitLog — Workout Planner
 
